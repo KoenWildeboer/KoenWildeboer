@@ -1,0 +1,4 @@
+- 👋 Hello I'm Koen Wildeboer
+- 👀 I’m interested in Modern Technology
+- 🌱 I’m currently learning as a Software Developer
+- 📫 If you want to reach me, you can contact me on koen.wildeboer@atomize.dev
